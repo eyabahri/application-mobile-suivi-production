@@ -22,7 +22,7 @@ Cette solution vise à remplacer le suivi manuel effectué sur papier et Excel p
 
 ## Démonstration vidéo
 
-🎥 [Cliquez ici pour visionner la démonstration de l'application]([LIEN_VIDEO](https://youtu.be/MuSpEVMrhlE))
+🎥 [Cliquez ici pour visionner la démonstration de l'application](https://youtu.be/MuSpEVMrhlE )
 
 
 
